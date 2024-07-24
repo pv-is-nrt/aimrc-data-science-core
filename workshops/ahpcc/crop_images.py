@@ -1,8 +1,8 @@
 from pathlib import Path
 import PIL.Image as Image
 
-DATA_FOLDER = '/home/prateek/Downloads/NFFA images sampled'
-TARGET_FOLDER = '/home/prateek/Downloads/NFFA images sampled cropped'
+DATA_FOLDER = '/home/prateek/Downloads/workshop-hpc-data/NFFA images sampled'
+TARGET_FOLDER = '/home/prateek/Downloads/workshop-hpc-data/NFFA images sampled cropped'
 
 # Create target folder if it does not exist
 Path(TARGET_FOLDER).mkdir(parents=True, exist_ok=True)
