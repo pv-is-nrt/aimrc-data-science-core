@@ -1,3 +1,5 @@
+#!/bin/bash
+
 module load python/3.10-anaconda
 echo "Successfully loaded python/3.10-anaconda module"
 
