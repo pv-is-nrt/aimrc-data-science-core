@@ -7,7 +7,12 @@ Welcome to the official repository of the AIMRC! Please visit the [AIMRC Data Sc
 <hr />
 
 ## Important Links
-- Our [Google Drive](https://drive.google.com/drive/folders/1r0oteK5Wv2zKKdMkYY1zZcUF4Cy2n4S9?usp=sharing) (look here for data and other resources)
+- Our [Google Drive](https://drive.google.com/drive/folders/1r0oteK5Wv2zKKdMkYY1zZcUF4Cy2n4S9?usp=sharing)  
+Look here for data and other resources.
+- [FAQs](https://docs.google.com/spreadsheets/d/1pjgfuuv26Eu6dSdPZIqwgkeo1Igc62Dvtoqko9kQPEk/edit?usp=sharing)  
+Please feel free to add your own questions so we can answer them for you.
+- [Needs and Suggestions](https://docs.google.com/spreadsheets/d/1ErkeeazvAv8t3vzDSKre1T73wkoNbBaw2xFYwXjeqoQ/edit?usp=sharing)  
+Please let us know what you need or suggest improvements.
 
 <!-- ======================================================================= -->
 <hr />
@@ -17,7 +22,7 @@ Welcome to the official repository of the AIMRC! Please visit the [AIMRC Data Sc
 ### Upcoming workshops
 - **Aug 14, 2024 1-3 pm**  
   A Guide for Open-Source Deep Learning Tools and Approaches in Bioimaging.  
-  *Location*: Please see email invitation.
+  *Location*: JBHT 239. No online option available.
 
 ### Past workshops
 - **Jul 25, 2024 1-3 pm**  
