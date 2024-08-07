@@ -44,7 +44,7 @@ Welcome to the official repository of the AIMRC! Please visit the [AIMRC Data Sc
 
 ## Help and Support
 
-Please contact Prateek Verma with any questions. His office hours are listed on the website.
+Please contact Prateek Verma with any questions. You can email him or [book a meeting with him here](https://calendly.com/prateekverma/30min).
 
 
 <!-- ======================================================================= -->
