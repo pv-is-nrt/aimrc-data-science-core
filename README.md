@@ -30,19 +30,19 @@ Please contact Dr. Prateek Verma with any questions. You can email him directly 
 ## Workshops
 
 ### Upcoming workshops
-- **Sep 1s week, 2024 1-3 pm**  
+- **Sep 4th week, 2024 1-3 pm**  
   Using Large Language and Foundation Models (like ChatGPT) via Python.  
   *Location*: JBHT 239.
 
-- **Sep 3rd week, 2024 1-3 pm**  
-  (*Repeat*) Getting started with the Arkansas Research Platform: A friendly tutorial on accessing AIMRC high-performance computing resources.  
-  *Location*: JBHT 239.
-
-- **Oct 1st week, 2024 1-3 pm**  
+- **Oct 4th week, 2024 1-3 pm**  
   A guide to using multi-omics data in machine learning.  
   *Location*: JBHT 239.
 
-- **Oct 3rd week, 2024 1-3 pm**
+- **Datetime: TBD**  
+  (*Repeat*) Getting started with the Arkansas Research Platform: A friendly tutorial on accessing AIMRC high-performance computing resources.  
+  *Location*: JBHT 239.
+
+- **Datetime: TBD**
   (*Repeat*) A Guide for Open-Source Deep Learning Tools and Approaches in Bioimaging. 
   *Location*: JBHT 239.
 
