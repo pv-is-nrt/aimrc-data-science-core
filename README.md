@@ -1,7 +1,7 @@
 # AIMRC
 Arkansas Integrated Metabolic Research Center
 
-Welcome to the official repository of the AIMRC! Please visit the [AIMRC Data Science Core Website](https://aimrc.uark.edu/data-science-core/) for information about who we are and what we do.
+Welcome to the official repository of the AIMRC Data Science Core! Please visit our [website](https://aimrc.uark.edu/data-science-core/) for information about who we are and what we do.
 
 <!-- ======================================================================= -->
 <hr />
