@@ -30,11 +30,8 @@ Please contact Dr. Prateek Verma with any questions. You can email him directly 
 ## Workshops
 
 ### Upcoming workshops
-- **Sep 4<sup>th</sup> week, 2024 1-3 pm**  
-  Using Large Language and Foundation Models (like ChatGPT) via Python.  
-  *Location*: JBHT 239.
 
-- **Oct 4<sup>th</sup> week, 2024 1-3 pm**  
+- **Datetime: TBD**   
   A guide to using multi-omics data in machine learning.  
   *Location*: JBHT 239.
 
@@ -49,6 +46,10 @@ Please contact Dr. Prateek Verma with any questions. You can email him directly 
 ### Past workshops
 
 Slides for past workshops are available within the `workshops` folder.
+
+- **Oct 2<sup>nd</sup>, 2024 2-4 pm**  
+  Programmatic Querying of Large (Vision) Language Models for Research.
+
 - **Aug 14, 2024 1-3 pm**  
   A Guide for Open-Source Deep Learning Tools and Approaches in Bioimaging.
 
